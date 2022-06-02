@@ -1,0 +1,899 @@
+.header{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.sch_logo{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sch_heading{
+    display:flex;
+    color:#14a2b8;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button{
+    color:white;
+    background-color: #14a2b8;
+    font-size: 15px;
+    border-radius: 25px;
+    border: #f8f9fa;
+    padding: 10px;
+    width: 130px;
+}
+
+.nav_tools{
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.poster{
+    display:flex;
+    background-color:#14a2b8;
+}
+
+.p_content{
+    width:50%;
+    height:35%S;
+    padding: 10px;
+    margin:8%;
+    vertical-align: middle;
+    align-items:center;
+    justify-content:center;
+}
+
+.p_head{
+    font-family: 'Gluten', cursive;
+}
+
+.Sub_content{
+    margin:10px;
+}
+
+.p_button{
+    background-color: #01394f;
+    color: white;
+    font-size: 15px;
+    border-radius: 25px;
+    border:rgb(79, 231, 231);
+    padding: 10px;
+    width: 130px;
+}
+
+.P_button{
+    margin: 5%;   
+}
+
+.child_img{
+    margin:6px;
+}
+
+.p_content{
+    color:white;
+    text-align:centre;
+    padding:1rem;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+    text-align:centre;
+    vertical-align:bottom;
+}
+
+a:hover{
+    color:#4fe5fc;
+    background-color:white;
+}
+
+.item{
+    display:inline;
+    text-align:center;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.nav_tools{
+    margin-right:centre;
+    letter-spacing:3px;
+    text-align:centre;
+
+
+}
+
+a:active{
+font-size:1.5em;
+}
+
+.Activity1 {
+    display:flex;
+    margin:5px;
+    justify-content: end;
+}
+
+.play_cont{
+    
+    font-family: 'Gluten', cursive;
+}
+
+.play_ground{
+    background-color:#f8f9fa;
+    margin:6px;
+    width:25%;
+    height:35%;
+    color:black;
+    padding: 20px;
+}
+
+.play_logo{
+    display:flex;
+}
+
+.music_logo{
+    font-family: 'Gluten', cursive;
+    display:flex;
+    
+}
+
+.music_dance{
+    background-color:#f8f9fa;
+    margin:6px;
+    width:25%;
+    height:35%;
+    color:black;
+    padding: 20px;
+}
+
+.arts_crafts{
+    background-color:#f8f9fa;
+    margin:6px;
+    width:25%;
+    height:35%;
+    color:black;
+    padding:20px;
+}
+
+.arts_logo{
+    display:flex;
+    font-family: 'Gluten', cursive;
+    
+}
+
+.Activity2{
+    display:flex;
+    justify-content: end;
+}
+
+.safe_transportation{
+    background-color:#f8f9fa;
+    margin:6px;
+    width:25%;
+    height:35%;
+    color:black;
+    padding: 20px;
+}
+
+.transport_logo{
+    display:flex;
+    font-family: 'Gluten', cursive;
+}
+
+.Healthy_food{
+    background-color:#f8f9fa;
+    margin:6px;
+    width:25%;
+    height:35%;
+    color:black;
+    padding: 20px;
+}
+
+.Healthy_logo{
+    display:flex;
+    font-family: 'Gluten', cursive;
+}
+
+.Educational_tour{
+    background-color:#f8f9fa;
+    margin:6px;
+    width:25%;
+    height:35%;
+    color:black;
+    padding: 20px;
+}
+
+.Educational_logo{
+    display:flex;
+    font-family: 'Gluten', cursive;
+}
+ 
+.about_us{
+    display:flex;
+    justify-content: space-around;
+    margin:20px;
+}
+
+.learn_about{
+    font-family: 'Poppins', sans-serif;
+    color:#1ba3bb;
+}
+
+.about_head{
+    font-family: 'Gluten', cursive;
+}
+
+.about_content{
+    margin:4px;
+}
+
+.about_curriculum{
+    display:flex;
+}
+
+.curriculum_cont{
+    margin:10px;
+}
+
+.curriculum_cont1{
+    display:flex;
+    
+}
+
+.curriculum_cont2{
+    display:flex;
+}
+
+.curriculum_cont3{
+    display:flex
+}
+
+.a_button{
+    background-color:#14a2b8;
+    color: white;
+    font-size: 12px;
+    border-radius: 25px;
+    border:rgb(79, 231, 231);
+    padding: 10px;
+    width: 90px;
+    margin:10px; 
+}
+
+.scl_img {
+    margin:6px;
+    height:100%;
+}
+
+.pop_cls{
+    color:black;
+    text-align:center;
+    font-family: 'Gluten', cursive;
+    margin: 10px;
+}
+
+.pop_cls1{
+    color:#14a2b8;
+    font-family: 'Poppins', sans-serif;
+}
+
+.creative_cls{
+    display:flex;
+    justify-content:space-evenly;
+    height:100%;
+    width:100%;
+}
+
+.creative_cls1{
+    background-color:#eee;
+    color:black ;
+}
+
+.creative_cls2{
+    background-color:#eee;
+}
+
+
+.creative_cls_content{
+    display:flex;
+    text-align:center;
+    justify-content:space-around;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    padding:px;
+}
+
+.drawing{
+    background-color:#eee;
+    padding-bottom: 10px;
+    width:30%;
+    height:25%;
+    color:black ;
+    padding-bottom: 10px
+}
+
+.drawing_head{
+    font-family: 'Gluten', cursive;
+}
+
+.language{
+    padding-bottom: 10px;
+    background-color:#eee;
+    width:30%;  
+    height:25%;
+    color:black ;
+}
+
+.language_head{
+    font-family: 'Gluten', cursive;
+}
+
+.basic_science{
+    padding-bottom: 10px;
+    background-color:#eee;
+    width:30%;
+    height:25%;
+    color:black;
+}
+
+.basic_head{
+    font-family: 'Gluten', cursive;
+}
+
+.criteria{
+    display:flex;
+    justify-content:space-around ;
+    font-family: 'Poppins', sans-serif;
+}
+
+.criteria_content{
+    background-color:#eee;
+    margin:10px;
+    padding-top: 12px;
+    width:30%;
+    height:25%;
+    color:black ;
+    text-align:center;
+    margin: 2px solid red;
+}
+
+.book_a_seat{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.title{
+    color:#038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.book_head{
+    font-family: 'Gluten', cursive;
+}
+
+.check_cont1{
+    display:flex;
+    align-items: center;
+}
+
+.book_check1{
+    margin:10px;
+}
+
+.check_cont2{
+    display:flex;
+    align-items: center;
+}
+
+.book_check2{
+    margin:10px;
+}
+
+.check_cont3{
+    display:flex;
+    align-items: center;
+}
+
+.book_check3{
+    margin:10px;
+}
+
+.Seat_book{
+    border:2px solid #01394f;
+    background-color:#01394f;
+    font-family: 'Gluten', cursive;
+}
+
+.stu_info{
+    background-color:#14a2b8;
+    color:white;
+    text-align:center;
+    width:30%;
+}
+
+.your_name{
+    margin:10px;
+    width:90%;
+    height:30px
+}
+
+.your_email{
+    margin:10px;
+    width:90%;
+    height:30px
+}
+
+.select_class{
+    margin:10px;
+    width:90%;
+    height:30px
+}
+
+.b_button{
+    color:white;
+    background-color: #011316;
+    font-size: 15px;
+    border-radius: 25px;
+    border: #f8f9fa;
+    padding: 10px;
+    width:80%;
+    height:40px;
+    margin:15px;
+}
+
+.teacher_title{
+    text-align:center;
+    color:#038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.intro_title{
+    text-align:center;
+    color:black;
+    font-family: 'Gluten', cursive;
+}
+
+.main_teacher_content{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.Teacher_img1{
+    justify-content:space-evenly;
+    text-align:center;
+}
+
+.T_img1{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.T_img1 img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.julia_smith{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.music_teach{
+    font-family: 'Gluten', cursive;
+}
+
+.Teacher_img2{
+    justify-content:space-evenly;
+    text-align:center;
+}
+
+.T_img2{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.T_img2 img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.jhon_doe{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.language_teach{
+    font-family: 'Gluten', cursive;
+}
+
+.Teacher_img3{
+    justify-content:space-evenly;
+    text-align:center;
+}
+
+.T_img3{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.T_img3 img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.mollie_ross{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.dance_teach{
+    font-family: 'Gluten', cursive;
+}
+
+.Teacher_img4{
+    justify-content:space-evenly;
+    text-align:center;
+    border: red;
+}
+
+.T_img4{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.T_img4 img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.donald_john{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.art_teach{
+    font-family: 'Gluten', cursive;
+}
+
+.Testimonial_title{
+    color:#14a2b8;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Parent_say{
+    text-align:center;
+    font-family: 'Gluten', cursive;
+}
+
+.parent_thoughts{
+    display:flex;
+    justify-content: space-evenly;
+    font-family: 'Poppins', sans-serif;
+}
+
+.P1_thoughts{
+    background-color:#eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:30%;
+    height:25%;
+    color:black;
+}
+
+.P2_thoughts{
+    background-color:#eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:30%;
+    height:25%;
+    color:black;
+    }
+
+.P3_thoughts{
+    background-color:#eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:30%;
+    height:25%;
+    color:black;
+}
+
+.parent_main_content{
+    display:flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.Parent_img1{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.P_img1{
+    display: inline-block;
+    overflow: hidden;
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
+
+.P_img1 img{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+}
+
+.parent_name1{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.parent_prof1{
+    font-family: 'Gluten', cursive;
+}
+
+.Parent_img2{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+
+.P_img2{
+    display: inline-block;
+    overflow: hidden;
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
+
+.P_img2 img{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+}
+
+.parent_name2{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.parent_prof2{
+    font-family: 'Gluten', cursive;
+}
+
+.Parent_img3{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+
+.P_img3{
+    display: inline-block;
+    overflow: hidden;
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
+
+.P_img3 img{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+}
+
+.parent_name3{
+    color: #038e8e;
+    font-family: 'Poppins', sans-serif;
+}
+
+.parent_prof3{
+    font-family: 'Gluten', cursive;
+}
+
+.LatestBlog{
+    color:#14a2b8;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.LatestArticle{
+    text-align:center;
+    font-family: 'Gluten', cursive;
+}
+
+.Blog_img{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.B_img{
+    margin:10px;
+}
+
+.BlogContent{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.B1_content{
+    background-color:#eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 5px solid white;
+    text-align: center;
+
+}
+
+.blog_head1{
+    font-family: 'Gluten', cursive;
+
+}
+
+.admin_head1{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-evenly;
+}
+
+.B2_content{
+    background-color:#eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 5px solid white;
+    text-align: center;
+}
+
+.blog_head2{
+    font-family: 'Gluten', cursive;
+}
+
+.admin_head2{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    justify-content: space-evenly;
+}
+
+.B3_content{
+    background-color:#eee;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 5px solid white;
+    text-align: center;
+    
+}
+
+.blog_head3{
+    font-family: 'Gluten', cursive;
+}
+
+.admin_head3{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Footer{
+    background-color:#01394f;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.foot_icon{
+    display:flex;
+    align-items: center;
+}
+
+.footer_head{
+    font-family: 'Gluten', cursive;
+}
+
+.F_content1{
+    color:white;
+}
+
+.foot_icon{
+    display:flex;
+    text-align:center;
+}
+
+.F_content2{
+    color:white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.fa {
+    color:#1ba3bb;
+}
+
+.get_color{
+    color:#1ba3bb;
+    font-family: 'Gluten', cursive;
+}
+
+.F_content3{
+    color:white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.quick_color{
+    color:#1ba3bb;
+    font-family: 'Gluten', cursive;
+}
+
+.F_content4{
+    color:#1ba3bb;
+}
+
+.news_head{
+    font-family: 'Gluten', cursive;
+}
+
+.f_button{
+    color:white;
+    background-color: #2fbdd6;
+    font-size: 13px;
+    border-radius: 25px;
+    border: #f8f9fa;
+    padding: 10px;
+    width:80%;
+    height:37px;
+    margin:15px;
+}
+
+.foot_end{
+    display:flex;
+    background-color:#01394f ;
+    justify-content:center;
+    border: 0.5px solid rgb(39, 96, 96);
+    height: 50px;
+    align-items: center;
+}
+
+.site_name{
+    color: #0d8c9d;
+    font-family: 'Gluten', cursive;
+}
+
+.site_mid{
+    color: white;
+    font-family: 'Gluten', cursive;
+}
+
+.site_end{
+    color:#0d8c9d;
+    font-family: 'Gluten', cursive;
+}
